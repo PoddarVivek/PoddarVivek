@@ -73,6 +73,8 @@ Interactive Power BI dashboard analyzing population trends and demographic insig
 
 🔗 https://github.com/PoddarVivek/powerbi-country-population-dashboard
 
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoddarVivek&show_icons=true&theme=tokyonight&cache_seconds=86400)
@@ -88,9 +90,3 @@ Interactive Power BI dashboard analyzing population trends and demographic insig
 ## 📈 GitHub Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PoddarVivek&theme=tokyo-night)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/PoddarVivek/PoddarVivek/output/github-contribution-grid-snake.svg)
