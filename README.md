@@ -54,10 +54,10 @@ Analysis of ICC Men's T20 World Cup dataset using Python and Power BI to uncover
 
 ---
 
-### 📊 Sales Data Analytics Pipeline
-End-to-end analytics pipeline analyzing sales data using Python, SQL, and Power BI to generate business insights.
+### 📺 Netflix Data Analysis (SQL)
+Exploratory data analysis of Netflix movies and TV shows using SQL to extract insights on genres, ratings, countries, and content trends.
 
-🔗 https://github.com/PoddarVivek/sales-data-analytics-pipeline
+🔗 https://github.com/PoddarVivek/Netflix-Shows-and-Movies-SQL
 
 ---
 
