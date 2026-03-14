@@ -61,10 +61,11 @@ Exploratory data analysis of Netflix movies and TV shows using SQL to extract in
 
 ---
 
-### 🛒 E-commerce SQL Analysis
-SQL-based project analyzing customer behavior, order trends, and revenue insights using relational datasets.
+### 🏥 Healthcare Equity Data Analysis
 
-🔗 https://github.com/PoddarVivek/ecommerce-sql-analysis
+Analysis of the Lown Hospital Index for Equity dataset using SQL, Excel, and Tableau to uncover insights on hospital rankings, inclusivity metrics, and healthcare equity performance.
+
+🔗 https://github.com/PoddarVivek/Lown-Hospital-Index-for-Equity-SQL
 
 ---
 
